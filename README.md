@@ -12,5 +12,5 @@
 
 한정우:
 
-신찬영:
+신찬영:https://github.com/chanyoung-shin/deeplearning-at-pytorch/wiki
 
