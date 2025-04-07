@@ -2,7 +2,7 @@
 ## 멤버 활동 링크
 김나연:
 
-김현서:
+김현서:https://www.notion.so/transfomer-1ce268ab66b080b1a9aeff50bcb2b99e?pvs=4
 
 김동현:
 
